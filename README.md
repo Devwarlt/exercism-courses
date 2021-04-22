@@ -10,8 +10,10 @@ This repository contains all practices from [Exercism's courses][exercism-course
   <summary>JavaScript Course</summary>
   
   - **Module 1**: [`Hello World`][js-module-1]
+  - **Module 2**: [`Two Fer`][js-module-2]
   
   [js-module-1]: /javascript/hello-world
+  [js-module-2]: /javascript/two-fer
   
 </details>
 
