@@ -15,6 +15,7 @@ This repository contains all practices from [Exercism's courses][exercism-course
   - **Module 4**: [`Resistor Color Duo`][js-module-4]
   - **Module 5**: [`Gigasecond`][js-module-5]
   - **Module 6**: [`RNA Transcription`][js-module-6]
+  - **Module 7**: [`Space Age`][js-module-7]
   
   [js-module-1]: /javascript/hello-world
   [js-module-2]: /javascript/two-fer
@@ -22,6 +23,7 @@ This repository contains all practices from [Exercism's courses][exercism-course
   [js-module-4]: /javascript/resistor-color-duo
   [js-module-5]: /javascript/gigasecond
   [js-module-6]: /javascript/rna-transcription
+  [js-module-7]: /javascript/space-age
   
 </details>
 
